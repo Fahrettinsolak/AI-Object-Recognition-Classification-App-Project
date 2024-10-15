@@ -1,4 +1,5 @@
-# AI-12-Object_Recognition_Classification_App
+# AI-Object-Recognition-Classification-App-Project
+
 # Image Classification using Transfer Learning
 
 ![Before Prediction](app_interface.png)
