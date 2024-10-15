@@ -28,7 +28,7 @@ Transfer learning allows us to use pre-trained models on different datasets, red
 
 1. Clone the repository:
 ```bash
-https://github.com/Semssolak/AI-12-Object_Recognition_Classification_App.git
+https://github.com/Fahrettinsolak/AI-Object-Recognition-Classification-App-Project.git
 ```
 
 2. Run the Streamlit app:
